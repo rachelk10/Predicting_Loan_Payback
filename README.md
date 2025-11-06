@@ -116,7 +116,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Rachel Shor - [GitHub Profile](https://github.com/rachelk10)
 
 ## 🙏 Acknowledgments
 
